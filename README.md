@@ -1,17 +1,16 @@
-## Equipe
+# Sprint1 SERS
+Esse foi um trabalho educacional na qual realizamos uma pesquisa para enterdermos melhor sobre o ChargeGrid Intelligence na qual  propõe o controle de demanda e a integração de eletropostos, utilizando o EV Charger:
 
-| Integrante | RM | Curso | Instituição |
-|---|---|---|---|
-| André Fujinaga | RM569158 | Ciência da Computação | FIAP |
-| Arthur Machado | RM569919 | Ciência da Computação | FIAP |
-| Conrado Gracie | RM569157 | Ciência da Computação | FIAP |
-| Guilherme Belo | RM570079 | Ciência da Computação | FIAP |
-| Renato Sandreschi | RM569156 | Ciência da Computação | FIAP |
+André Fujinaga - RM569158 ||
+Arthur Machado - RM569919 ||
+Conrado Gracie - RM569157 ||
+Guilherme Belo - RM570079 ||
+Renato Sandreschi - RM569156 ||
 
-> *Projeto desenvolvido para o **EV Challenge 2026** — Sprint 1*
+faculdade de informática e administração paulista (FIAP).
 
 ---
-
+## Início do relatório
 ## Problema e Justificativa
 
 O crescimento acelerado dos veículos elétricos expõe uma série de deficiências na infraestrutura atual de eletropostos:
